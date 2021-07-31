@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "repl_python3_beta_LonelyMediumorchidTelephone"
+name = "realtime-image-annotator"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "This project demonstrates the Udacity self-driving car dataset and YOLO object detection into an interactive Streamlit app."
+authors = ["prakash sellathurai <prakashsellathurai@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"

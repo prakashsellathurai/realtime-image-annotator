@@ -24,7 +24,7 @@ This project demonstrates the [Udacity self-driving-car dataset](https://github.
     for filename in EXTERNAL_DEPENDENCIES.keys():
         download_file(filename)
 
-    st.sidebar.title("Self Driving Cars")
+    st.sidebar.title("Filters")
     run_the_app()
 
 
