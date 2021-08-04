@@ -1,6 +1,10 @@
 # Realtime Image Annotator
-<a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Powered%20by-Streamlit-orange.svg?logo=streamlit"/></a>
-<a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/package%20manager-python%20poetry-blue.svg"/></a>
+
+![](https://img.shields.io/badge/Powered%20by-Streamlit-orange.svg?logo=streamlit)
+![](https://img.shields.io/badge/package%20manager-python%20poetry-blue.svg)
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/prakashsellathurai/realtime-image-annotator/main/app.py)
+
 ## Installation
 
 Use the package manager [python-poetry](https://python-poetry.org/) to install the dependencies.
